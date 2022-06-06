@@ -1,0 +1,132 @@
+[
+    {
+        "id":"1",
+        "title":"Keroppi LED Ambient lamp",
+        "price":"59.95$",
+        "size":"Acrylic up to 8inch tall and 5inch wide.",
+        "material":"Laser engraved acrylic, plastic base.",
+        "work":"Laser cut and engraved",
+        "category":"LED",
+        "img":"keroppi"
+    },
+    {
+        "id":"2",
+        "title":"Cinnamon Roll LED",
+        "price":"59.95$",
+        "size":"Acrylic up to 8inch tall and 5inch wide.",
+        "material":"Laser engraved acrylic, plastic base.",
+        "work":"Laser cut and engraved",
+        "category":"LED",
+        "img":"cinnamon"
+    },
+    {
+        "id":"3",
+        "title":"Kuromi LED",
+        "price":"59.95$",
+        "size":"Acrylic up to 8inch tall and 5inch wide.",
+        "material":"Laser engraved acrylic, plastic base.",
+        "work":"Laser cut and engraved",
+        "category":"LED",
+        "img":"kuromi"
+    },
+    {
+        "id":"4",
+        "title":"Pikachu LED Ambient Lamp",
+        "price":"59.95$",
+        "size":"Acrylic up to 8inch tall and 5inch wide.",
+        "material":"Laser engraved acrylic, plastic base.",
+        "work":"Laser cut and engraved",
+        "category":"LED",
+        "img":"pikachu"
+    },
+    {
+        "id":"5",
+        "title":"Stitch Elvis LED",
+        "price":"59.95$",
+        "size":"Acrylic up to 8inch tall and 5inch wide.",
+        "material":"Laser engraved acrylic, plastic base.",
+        "work":"Laser cut and engraved",
+        "category":"LED",
+        "img":"stitch"
+    },
+    {
+        "id":"6",
+        "title":"You Are A-Maze-Ing LED",
+        "price":"59.95$",
+        "size":"Acrylic up to 8inch tall and 5inch wide.",
+        "material":"Laser engraved acrylic, plastic base.",
+        "work":"Laser cut and engraved",
+        "category":"LED",
+        "img":"amazeing"
+    },
+    {
+        "id":"7",
+        "title":"Selena Singer LED",
+        "price":"59.95$",
+        "size":"Acrylic up to 8inch tall and 5inch wide.",
+        "material":"Laser engraved acrylic, plastic base.",
+        "work":"Laser cut and engraved",
+        "category":"LED",
+        "img":"selena"
+    },
+    {
+        "id":"8",
+        "title":"Harry Styles Peace Sign LED",
+        "price":"59.95$",
+        "size":"Acrylic up to 8inch tall and 5inch wide.",
+        "material":"Laser engraved acrylic, plastic base.",
+        "work":"Laser cut and engraved",
+        "category":"LED",
+        "img":"harrystyles"
+    },
+    {
+        "id":"9",
+        "title":"BT21 Heart Characters LED",
+        "price":"59.95$",
+        "size":"Acrylic up to 8inch tall and 5inch wide.",
+        "material":"Laser engraved acrylic, plastic base.",
+        "work":"Laser cut and engraved",
+        "category":"LED",
+        "img":"heart"
+    },
+    {
+        "id":"10",
+        "title":"Harry Potter Wood Christmas Ornamets",
+        "price":"40$",
+        "size":"set of 8, 5 inches in diameter ornaments.",
+        "material":"Plywood.",
+        "work":"Laser cut and engraved",
+        "category":"Woodwork",
+        "img":"harrypotter"
+    },
+    {
+        "id":"11",
+        "title":"Custom made Christmas Ornamets",
+        "price":"50$",
+        "size":"set of 8, 5 inches in diameter ornaments.",
+        "material":"Plywood.",
+        "work":"Laser cut and engraved",
+        "category":"Woodwork",
+        "img":"ornaments"
+    },
+    {
+        "id":"12",
+        "title":"Custom Cup tags",
+        "price":"30$",
+        "size":"set of 5, up to 5 inches wide.",
+        "material":"Plywood or color acrylic.",
+        "work":"Laser cut",
+        "category":"Woodwork",
+        "img":"cuptags"
+    },
+    {
+        "id":"13",
+        "title":"Custom Cutting board",
+        "price":"Varies depending on cutting board",
+        "material":"wood",
+        "work":"Laser cut",
+        "category":"Woodwork",
+        "img":"board"
+    }
+]
+ 
